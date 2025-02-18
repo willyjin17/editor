@@ -26,9 +26,9 @@
   "license": "MIT",
   "devDependencies": {
     "@types/codemirror": "5.60.5",
-    "@types/mdurl": "^1.0.2",
+    "@types/mdurl": "^2.0.0",
     "codemirror": "^5.51.0",
     "entities": "^2.0.0",
-    "mdurl": "^1.0.1"
+    "mdurl": "^2.0.0"
   }
 }
